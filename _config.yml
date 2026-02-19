@@ -1,0 +1,8 @@
+title: GrassClient
+description:Download GrassClient
+theme: jekyll-theme-slate
+
+background_image: "https://tu-imagen-de-grass-client.jpg"
+
+header_background: "rgba(0, 0, 0, 0.4)"
+body_background: "transparent"
